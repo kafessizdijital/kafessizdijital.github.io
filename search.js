@@ -17,4 +17,4 @@ const address_1 = addresses[Math.floor(Math.random() * addresses.length)]
 
 let search = address_1
 
-window.location.replace(mail);
+window.location.replace(search);
